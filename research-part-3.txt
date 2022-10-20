@@ -1,0 +1,3 @@
+In 2016, Uber discovered that the data for 57 million of their app users had been accessed by hackers, and around 600,000 drivers. The motives are a bit of a mystery, but 
+Uber claimed that they paid hackers $100,000 to delete all stolen data and proof thereof. Soon after, Uber fired it CSO. The value of Uber dropped by about 
+$20 Billion, and lost some reputation. Fishy stuff.
